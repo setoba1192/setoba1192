@@ -3,7 +3,7 @@
 - 🔭 I’m Joan Sebastian, Fullstack Developer following the way to become in a Great Backend Developer.
 - 🌱 I’m currently learning :
 <div>
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" title="AWS" alt="AWS"/>&nbsp;
 </div>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
