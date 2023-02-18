@@ -13,6 +13,8 @@
 - 😄 Fun environment, Great collaboration capabilities, Explorer, Leader 
 - 🎯😜🎷 Love playing Saxophone, play videogames and travel around 🏍️ 
 
+---
+
 ### :fire: My Stats :
 
 <div align="center" >
@@ -22,6 +24,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setoba1192&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -38,3 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" **alt="Postgres" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" **alt="Oracle" width="40" height="40"/>
 </div>
+---
+
+### 🧑‍💼: Linkedin Profile :
+<a href="https://www.linkedin.com/in/joan-sebastian-roa-sanchez-62804415a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"></a>
