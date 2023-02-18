@@ -2,8 +2,12 @@
 
 - 🔭 I’m Joan Sebastian, Fullstack Developer following the way to become in a Great Backend Developer.
 - 🌱 I’m currently learning :
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" title="AWS" alt="AWS"/>&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node" alt="Node"/>&nbsp;
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" title="Kafka" alt="Kafka"/>&nbsp;
+  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" title="Rabbit" alt="Rabbit"/>&nbsp;
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" title="Spring Security" alt="Spring Security"/>&nbsp;
 </div>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
