@@ -46,3 +46,7 @@
 
 ### 🧑‍💼: Linkedin Profile :
 <a href="https://www.linkedin.com/in/joan-sebastian-roa-sanchez-62804415a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"></a>
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsetoba1192&countColor=%23263759)
+
+
